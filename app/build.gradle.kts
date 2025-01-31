@@ -5,11 +5,11 @@ plugins {
 }
 
 android {
-    namespace = "com.example.biblioteca_libro"
+    namespace = "com.example.empresa_empleado"
     compileSdk = 34
 
     defaultConfig {
-        applicationId = "com.example.biblioteca_libro"
+        applicationId = "com.example.empresa_empleado"
         minSdk = 24
         targetSdk = 34
         versionCode = 1
@@ -60,6 +60,7 @@ dependencies {
     implementation(libs.androidx.ui.graphics)
     implementation(libs.androidx.ui.tooling.preview)
     implementation(libs.androidx.material3)
+    implementation(libs.androidx.room.common)
     val roomVersion = project.findProperty("roomVersion") as String
 
     implementation("androidx.room:room-runtime:$roomVersion")

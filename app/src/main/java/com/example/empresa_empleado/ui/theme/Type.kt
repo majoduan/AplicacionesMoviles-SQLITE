@@ -1,4 +1,4 @@
-package com.example.biblioteca_libro.ui.theme
+package com.example.empresa_empleado.ui.theme
 
 import androidx.compose.material3.Typography
 import androidx.compose.ui.text.TextStyle
