@@ -1,0 +1,2 @@
+Deber 1 y 2
+Enlace del video: https://epnecuador-my.sharepoint.com/:v:/g/personal/mateo_duenas_epn_edu_ec/EcUr08NsrihDj0PZL1ipfSwB9fyBYfE5-whvrOyX10QFcw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=BIjNhI
